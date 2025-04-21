@@ -1,0 +1,97 @@
+#corpo{
+    border: 1px solid black;
+    width: 90vw;
+    height: 150vh;
+    border-radius: 1px;
+    margin: auto;
+
+    font-family: 'Courier New', Courier;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+#titulo{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: bisque;
+    margin: 0;
+}
+
+
+#button_EXCT{
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: bisque;
+    margin:0;
+}
+
+h4{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    margin-top: -10px;
+}
+span{
+    color:black;
+}
+
+#cadastro{
+    text-align: left;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: bisque;
+    margin: 0;
+    
+}
+
+#menu{
+    margin-top: -18px;
+    text-align: left;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: bisque;
+   
+}
+
+#tituloRelatorio{
+    
+    color: black;
+    font-family: 'Courier New', Courier;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    
+    margin: 0;
+}
+
+#relatorio{
+    margin-top: 20px;
+    text-align: left;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 320px;
+    background-color: bisque;
+}
+
+#buttonCadastrar{
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: bisque;
+    margin:0;
+}
